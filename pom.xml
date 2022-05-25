@@ -14,7 +14,7 @@
         <java.source.version>1.5</java.source.version>
         <java.target.version>1.5</java.target.version>
         <!--spring 版本号-->
-        <spring.version>3.2.4.RELEASE</spring.version>
+        <spring.version>5.2.22.RELEASE</spring.version>
 
         <!--mybatis 版本号-->
         <mybatis.version>3.2.4</mybatis.version>
